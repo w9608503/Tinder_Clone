@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "604444830088",
+    "project_id": "tinderapp-3d178",
+    "storage_bucket": "tinderapp-3d178.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604444830088:android:56ffdc51fe61403b87723d",
+        "android_client_info": {
+          "package_name": "com.android.datingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeSsRcReXzqZx6rg1TpffHAVeLNcsRdQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
